@@ -1,6 +1,8 @@
 # Introduction {#introduction}
 ------------------------------
 
+
+
 Ok so the fact that you are reading this means that you must be interested in embedded technology. Well at least remotely interested (hopefully). Or you just must be curious what all this is about. Whatever your reason be, thank you for reading and I urge you to go on till the end. Just for the reason that there is a chance at the end of this, you might learn something new. If there is anything I have learnt in all these years it is we must always learn from everything around us. In the words of Steve Jobs “Stay Hungry Stay Foolish”.
 
 Throughout this the only thing I expect from you is the desire to learn. Please do keep in mind that this is not some local author textbook or some big reference book. I shall be keeping to the point and hence you must read through the whole thing. Every line and word.
