@@ -16,7 +16,7 @@ There is a wide variety available ranging from 100 rupee ones to 5000 rupee indu
 
 This is the one we usually get at a hundred bucks.
 
-Function Knob.You have options like DC Voltmeter, AC Voltmeter and Ammeter
+Function Knob. You have options like DC Voltmeter, AC Voltmeter and Ammeter
 
 ![](../assets/picture_1.png)https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfwcJL1xN1IK5lhE-YiC7klKyGOmBa4kz7LMnwLuc8g2_JbaLD1w
 
@@ -25,11 +25,13 @@ Function Knob.You have options like DC Voltmeter, AC Voltmeter and Ammeter
 </p>
 
 
-Insert probes here.Check which function is being used and choose hole accordingly.
+Insert probes here. Check which function is being used and choose hole accordingly.
 
 Always disconnect the probes before changing the mode of the DMM. Suppose you are measuring voltage and suddenly change the mode to Ammeter, your system will get short circuited and damaged!
 
-*   ![](../assets/picture_7.png)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXI8YMO77S4wbMGubkpE8kTYJ_x30Z9BM-QxY9uCDhg5dcq56oSoldering Gun The soldering gun we most easily get in these areas is the yellow coloured Solderon soldering iron (25 Watt). This is completely sufficient for all DIY projects and is even capable of SMD soldering.Most soldering guns come with a flat ringed metal tip. For SMD work you can use the pointed tip. There is a different type of tip available known as a coated tip. It is about 3 times the cost of a normal tip but gives superior performance and lasts a lot longer. If you are going to do a lot of soldering work give it a try.
+*   ![](../assets/picture_7.png)
+
+Gun The soldering gun we most easily get in these areas is the yellow coloured Solderon soldering iron (25 Watt). This is completely sufficient for all DIY projects and is even capable of SMD soldering.Most soldering guns come with a flat ringed metal tip. For SMD work you can use the pointed tip. There is a different type of tip available known as a coated tip. It is about 3 times the cost of a normal tip but gives superior performance and lasts a lot longer. If you are going to do a lot of soldering work give it a try.
 
 *   Solder Metal and Flux Solder metal for obvious purposes. The flux is optional but it makes soldering a whole lot easier.
 
