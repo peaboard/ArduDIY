@@ -5,7 +5,7 @@
 <!-- * [Foreword](foreword.md) -->
 * [How and Where to Use This Board](how_and_where_to_use_this_board.md)
 * [Getting Started](getting_started/README.md)
-  * [What You Will Need:](getting_started/what_you_will_need.md)
+  <!-- * [What You Will Need:](getting_started/what_you_will_need.md) -->
 * [Contents](contents.md)
 * [How to go about](how_to_go_about.md)
 * [Arduino](arduino/README.md)
