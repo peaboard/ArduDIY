@@ -126,15 +126,8 @@ The voltage regulator we use is the 7805\. It is a linear voltage regulator. The
 
 **Single Strand Wire: -** As the PCB we use is single sided, if two connections cross we need to take one of them over another. We use a wire to do this. A single strand wire is preferable when making such connections.
 
-<p align="center">
-  <img src="assets/picture_197.png" align="center">
-</p>
+![](assets/picture_198.png)
 
-As there is no direct method to add wire in Eagle, I have used these two pins to represent the wire.
-
-<p align="center">
-  <img src="assets/picture_198.png" align="center">
-</p>
 
 **Box Header: -** This is the 10 pin box header. It is used to use an external programmer such as the USBasp when burning the bootloader or programming.
 
