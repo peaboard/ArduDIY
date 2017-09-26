@@ -1,4 +1,6 @@
 # Getting Started {#getting-started}
+---
+<br/>
 
 ## What You Will Need: {#what-you-will-need}
 
