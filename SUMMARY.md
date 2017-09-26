@@ -2,7 +2,7 @@
 
 <!-- * [ArduDIY_Almost_Final_B&W_9_BnW](README.md) -->
 * [Introduction](introduction.md)
-* [Foreword](foreword.md)
+<!-- * [Foreword](foreword.md) -->
 * [How and Where to Use This Board](how_and_where_to_use_this_board.md)
 * [Getting Started](getting_started/README.md)
   * [What You Will Need:](getting_started/what_you_will_need.md)
