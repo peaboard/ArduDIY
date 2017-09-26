@@ -12,6 +12,7 @@
   * [The Microcontroller](arduino/the_microcontroller.md)
   * [What makes a Microcontroller Arduino! ](arduino/what_makes_a_microcontroller_arduino.md)
 * [ArduDIY](ardudiy/README.md)
+  * [PC](ardudiy/pc.md)
   * [Converter](ardudiy/converter.md)
   * [ArduDIY Board:](ardudiy/ardudiy_board.md)
 * [Components](components.md)
