@@ -1,5 +1,4 @@
-## What makes a Microcontroller Arduino! {#what-makes-a-microcontroller-arduino}
-
+## What Makes a Microcontroller Arduino! {#what-makes-a-microcontroller-arduino}
 
 If you buy an ATmega328 from the market and plug it into your board it won’t work. The board wouldn’t respond at all. That’s because the microcontroller we bought from the market isn’t programmed to behave as an Arduino. Arduino has defined set parameters for communication between the IDE and the microcontroller. The microcontroller should be initially programmed such that it can interface with the Arduino IDE before we actually start using it as an Arduino.
 
@@ -10,3 +9,4 @@ What is a bootloader?The bootloader is the little program that runs when you tur
 Without the Arduino bootloader we would not have been able to program the microcontroller so easily.
 
 Thus the Arduino Bootloader is what makes our ATmega 328 an Arduino.
+
