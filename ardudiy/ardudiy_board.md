@@ -46,7 +46,7 @@ Here is the same schematic with blocks based on function. Check how many of them
 
 ![](../assets/picture_57.png)
 
-
+<br/>
 
 This is the bare minimum of what all is required for the microcontroller to run. Capacitors are used for decoupling \(to remove noise or varying elements\). Resistors are used to pull-up and for current limiting.
 
@@ -55,5 +55,7 @@ Now that we have seen the schematic let’s look at the board file. The board fi
 <br/>
 
 ![](../assets/picture_58.png)
+
+<br/>
 
 As you can see it is harder to realise the connections between components in the physical layout. That is the reason we need to first define the components and their connection in the schematic file and then proceed to layout.
