@@ -13,9 +13,9 @@ So on a serious note you will be needing the following things. If you are not su
 *   Digital Multimeter
     There is a wide variety available ranging from 100 rupee ones to 5000 rupee industrial standard. For most part the 100 rupee one is sufficient. But if you are considering doing more projects like this I would advise you to invest a bit more and get something a bit better around 300 – 500 rupees.
 
-This is the one we usually get at a hundred bucks.
+    This is the one we usually get at a hundred bucks.
 
-Function Knob. You have options like DC Voltmeter, AC Voltmeter and Ammeter
+    Function Knob. You have options like DC Voltmeter, AC Voltmeter and Ammeter
 
 ![](../assets/picture_1.png)https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfwcJL1xN1IK5lhE-YiC7klKyGOmBa4kz7LMnwLuc8g2_JbaLD1w
 
