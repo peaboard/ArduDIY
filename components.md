@@ -78,7 +78,9 @@ The Crystal we use in our oscillator circuit to provide clock to the microcontro
 
 ![](assets/picture_113.png)
 
-**Bergstrip: -** This is the connector we use to interface the pins. It is a male type Bergstrip of 2.54mm pitch. We use it in sets of 4,5,6,1 i.e. 1x4, 1x5, 1x6, 1x1\. You can use a hand cutter to break apart the whole strip into smaller parts.
+**Bergstrip: -**
+
+This is the connector we use to interface the pins. It is a male type Bergstrip of 2.54mm pitch. We use it in sets of 4,5,6,1 i.e. 1x4, 1x5, 1x6, 1x1\. You can use a hand cutter to break apart the whole strip into smaller parts.
 
 <p align="center">
   <img src="assets/picture_115.png" align="center">
@@ -88,13 +90,21 @@ The Crystal we use in our oscillator circuit to provide clock to the microcontro
   <img src="assets/picture_116.png" align="center">
 </p>
 
-![](assets/picture_117.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204042.jpg**IC Base: -** We shall use a 28 pin IC base to fit the microcontroller into. We do not directly solder the microcontroller as the heat of soldering may damage the pins and many times in prototyping we need to change the microcontroller IC. Now if something happens to the microcontroller we replace just the controller IC without replacing any other components on the board.
+**IC Base: -**
+
+We shall use a 28 pin IC base to fit the microcontroller into. We do not directly solder the microcontroller as the heat of soldering may damage the pins and many times in prototyping we need to change the microcontroller IC. Now if something happens to the microcontroller we replace just the controller IC without replacing any other components on the board.
 
 **The U type notch on the IC base should match the one** shown on the PCB.
 
-U notch
+<p align="center">
+  <img src="assets/picture_117.png" align="center">
+</p>
 
-![](assets/picture_118.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204253.jpg**Battery Connector: -** We shall use this to connect our board to a 9V battery. The red wire is positive of the battery and the black negative. We will solder these wires directly onto the board.
+**Battery Connector: -** We shall use this to connect our board to a 9V battery. The red wire is positive of the battery and the black negative. We will solder these wires directly onto the board.
+
+<p align="center">
+  <img src="assets/picture_118.png" align="center">
+</p>
 
 **Microcontroller: -** And finally we have the heart of our board, the all-powerful Atmega328P.
 
