@@ -20,7 +20,10 @@ Function Knob.You have options like DC Voltmeter, AC Voltmeter and Ammeter
 
 ![](../assets/picture_1.png)https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfwcJL1xN1IK5lhE-YiC7klKyGOmBa4kz7LMnwLuc8g2_JbaLD1w
 
-<img src="../assets/picture_1.png" align="center">
+<p align="center">
+  <img src="../assets/picture_1.png" align="center">
+</p>
+
 
 Insert probes here.Check which function is being used and choose hole accordingly.
 
