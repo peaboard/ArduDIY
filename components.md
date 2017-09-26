@@ -34,17 +34,16 @@ The terminal of the capacitor with a band above it is the negative terminal.
 
 <br/>
 
-**Diode: -** We use the 1N4007 diode. This is also a device with polarity and must be soldered with care.
+**Diode: -**
 
-Cathode
+We use the 1N4007 diode. This is also a device with polarity and must be soldered with care.
+Notice the silver/white band on one side. That terminal is the cathode or the negative terminal.
 
-Anode
+![](assets/picture_92.png)
 
-Band
+**LEDs: -**
 
-![](assets/picture_92.png)![](assets/picture_90.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1239-1.jpgNotice the silver/white band on one side. That terminal is the cathode or the negative terminal.
-
-**LEDs: -** Light Emitting Diodes. As they are a type of diodes they also have polarity and must be connected as per their polarity.
+Light Emitting Diodes. As they are a type of diodes they also have polarity and must be connected as per their polarity.
 
 You can identify the terminals of an LED by looking at the length of the terminals.
 
