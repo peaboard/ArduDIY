@@ -120,15 +120,9 @@ Please take special care with this IC, it can be damaged due to electrostatic di
 
 The voltage regulator we use is the 7805\. It is a linear voltage regulator. The output voltage is 5 Volts. The IC is available in many forms of which we will be using the DIP package. Minimal external circuit is required with this IC (just a few capacitors). It is one of the most widely used series of voltage regulators.
 
-Input
+![](assets/picture_196.png)
 
-GND
-
-![](assets/picture_196.png)![](assets/picture_185.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1220-1.jpg
-
-Output
-
-GND
+<br/>
 
 **Single Strand Wire: -** As the PCB we use is single sided, if two connections cross we need to take one of them over another. We use a wire to do this. A single strand wire is preferable when making such connections.
 
