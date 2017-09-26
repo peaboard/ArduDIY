@@ -42,6 +42,7 @@ Ok so once you have had a good and through look at the above circuit you can go 
 
 Here is the same schematic with blocks based on function. Check how
 
+<br/>
 
 ![](../assets/picture_57.png)G:\data1\ArduDIY\Images\Scematic Explanation.jpgmany of them you guessed correctly.
 
