@@ -140,8 +140,4 @@ This is the 10 pin box header. It is used to use an external programmer such as 
 
 **Relimate: -** We shall use the Relimate connector to connect our board to the converter board. The Relimate connecter fits only in one direction so take care when soldering this. Notice the flap of the connector, we shall use that as an identifier while soldering.
 
-Pin no. 1.
-
-![](assets/picture_209.png)![](assets/picture_205.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1277-1.jpg****
-
-Flap
+![](assets/picture_209.png)
