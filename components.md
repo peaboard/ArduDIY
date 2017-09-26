@@ -7,11 +7,9 @@ Let’s have a look at all the components present in here so that it shall be ea
 
 **Resistor:-** 4k7 or 4700Ohms.
 
-![](assets/picture_101.png)
-
-![](assets/picture_59.png)
-
-
+<p align="center">
+  <img src="assets/picture_101.png" align="center">
+</p>
 
 22pF
 
