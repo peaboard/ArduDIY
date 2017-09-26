@@ -11,31 +11,16 @@ Let’s have a look at all the components present in here so that it shall be ea
   <img src="assets/picture_101.png" align="center">
 </p>
 
-22pF
+**Ceramic Capacitor:-**
 
-![](assets/picture_60.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204123.jpg
+Ok we have ceramic capacitors of two different values. Please take care that you identify both correctly as it is very important during soldering. A mix up here can be very hard to debug later.
 
-Long Legs
+![](assets/picture_60.png)
 
-Small head
+<br/>
 
-22AEC
+![](assets/picture_69.png)
 
-**Ceramic Capacitor:-**Ok we have ceramic capacitors of two different values. Please take care that you identify both correctly as it is very important during soldering. A mix up here can be very hard to debug later.
-
-104
-
-![](assets/picture_69.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204213.jpg
-
-Large head
-
-Short Legs
-
-0.1uF
-
-![](assets/picture_78.png)
-
-G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204142.jpg
 
 **Electrolytic Capacitor:-**
 
