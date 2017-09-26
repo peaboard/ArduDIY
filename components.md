@@ -1,8 +1,13 @@
 # Components {#components}
+---
+
+<br/>
+
+Let’s have a look at all the components present in here so that it shall be easier to solder the board.
 
 ![](assets/picture_101.png)
 
-![](assets/picture_59.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1233-1.jpgLet’s have a look at all the components present in here so that it shall be easier to solder the board.
+![](assets/picture_59.png)
 
 **Resistor:-** 4k7 or 4700Ohms.
 
