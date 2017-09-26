@@ -28,23 +28,9 @@ Here again we have two different values. But these are easier to spot as the val
 
 The terminal of the capacitor with a band above it is the negative terminal.
 
-Negative Terminal
+![](assets/picture_83.png)
 
-Band (shows negative terminal)
-
-![](assets/picture_83.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1221-1.jpg
-
-Positive Terminal
-
-![](assets/picture_99.png)![](assets/picture_79.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1221-1.jpg
-
-100uF/25V
-
-![](assets/picture_81.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1224-1.jpg
-
-47uF/25V
-
-![](assets/picture_100.png)
+<br/>
 
 **Diode: -** We use the 1N4007 diode. This is also a device with polarity and must be soldered with care.
 
