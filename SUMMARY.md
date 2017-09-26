@@ -14,7 +14,7 @@
 * [ArduDIY](ardudiy/README.md)
   * [PC](ardudiy/pc.md)
   * [Converter](ardudiy/converter.md)
-  * [ArduDIY Board:](ardudiy/ardudiy_board.md)
+  * [ArduDIY Board](ardudiy/ardudiy_board.md)
 * [Components](components.md)
 * [Circuit Working](circuit_working.md)
 * [Soldering](soldering.md)
