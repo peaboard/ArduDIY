@@ -11,7 +11,7 @@ What Arduino does is it greatly simplifies the whole code writing process. This 
 
 ![](../assets/picture_14.png)
 
-YES!! All that was reduced to only two lines!And this is just the most basic example, you will realise how great Arduino is once you start using it.
+
 
 Just to give you a Perspective, this is the Arduino Header
 
