@@ -2,6 +2,7 @@
 
 ---
 
+<br/>
 
 
 Ok so the fact that you are reading this means that you must be interested in embedded technology. Well at least remotely interested \(hopefully\). Or you just must be curious what all this is about. Whatever your reason be, thank you for reading and I urge you to go on till the end. Just for the reason that there is a chance at the end of this, you might learn something new. If there is anything I have learnt in all these years it is we must always learn from everything around us. In the words of Steve Jobs “Stay Hungry Stay Foolish”.
@@ -17,4 +18,3 @@ The second reason for making this is that the grasping speeds of everyone is dif
 The main aim of this project, for me is to reduce the prototyping time. Every year there are so many students with amazing project ideas. But our current system is such that information is not readily available and our college syllabus does not teach anything practical at all. So when students start with projects, a lot of time is wasted in doing things from scratch. When the hardware finally is ready the semester ends and the innovative ideas are lost. In a country like India with so much talent this should not happen. Ideas being lost or forgotten is a huge mistake on our part.
 
 What I am trying to do through this kit, is reduce the time required to get the hardware ready. This will enable us to directly work on our ideas in the Application Domain. Keep in mind, this is just the beginning. You are about to unlock the path to a very interesting domain of engineering. The possibilities of what you can do are limitless. Finally, the joy we get when we make something and it works is amazing!
-
