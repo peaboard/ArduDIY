@@ -6,8 +6,9 @@ So, the right approach is to read this and side by side and practically perform.
 
 
 
-![](assets/picture_12.jpg width="335" height=52)
-
+<p align="center">
+  <img src="assets/picture_12.jpg" width="335" height=52 align="center">
+</p>
 
 
 Consider about half an hour for the basic knowledge and study of board part and one to two hours for soldering and another hour for the software and testing part. You could do it all at once or in breaks as you feel convenient.
