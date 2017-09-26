@@ -80,9 +80,13 @@ The Crystal we use in our oscillator circuit to provide clock to the microcontro
 
 **Bergstrip: -** This is the connector we use to interface the pins. It is a male type Bergstrip of 2.54mm pitch. We use it in sets of 4,5,6,1 i.e. 1x4, 1x5, 1x6, 1x1\. You can use a hand cutter to break apart the whole strip into smaller parts.
 
-![](assets/picture_115.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204234.jpg
+<p align="center">
+  <img src="assets/picture_115.png" align="center">
+</p>
 
-![](assets/picture_116.png)
+<p align="center">
+  <img src="assets/picture_116.png" align="center">
+</p>
 
 ![](assets/picture_117.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204042.jpg**IC Base: -** We shall use a 28 pin IC base to fit the microcontroller into. We do not directly solder the microcontroller as the heat of soldering may damage the pins and many times in prototyping we need to change the microcontroller IC. Now if something happens to the microcontroller we replace just the controller IC without replacing any other components on the board.
 
