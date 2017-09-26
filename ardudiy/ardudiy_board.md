@@ -6,7 +6,7 @@ Now let’s look at our Arduino board. On a layout level it can be split into th
 
 Now every board has a corresponding schematic. Whenever we make a printed circuit board usually we have to create two files. The schematic \(.sch\) and the board \(.brd\) file. The schematic file must be created first.
 
-The schematic file defines all the components that shall be used and the connection between all the pins of the components. Take for example we want to make a board with an AND gate. Before starting, the first thing to do is look at the datasheet of the IC 7408. This is a quad two input AND gate, that means there are four two input AND gates in this package. It may look huge and scary at first but believe me, as you read more and more datasheets it will get easier you will realise exactly which parameters to search in a datasheet and soon you will be able to understand a whole datasheet in just minutes.
+The schematic file defines all the components that shall be used and the connection between all the pins of the components. Take for example we want to make a board with an AND gate. Before starting, the first thing to do is look at the datasheet of the IC 7408. This is a quad two input AND gate, that means there are four two input AND gates in this package. It may look huge and scary at first but believe me, as you read more and more datasheets it will get easier you will realize exactly which parameters to search in a datasheet and soon you will be able to understand a whole datasheet in just minutes.
 
 | Logic Diagram | To understand what type the gate is. |
 | --- | --- |
@@ -19,19 +19,16 @@ So the parameters we shall look at now in the datasheet are:
 
 So now that we have studied the electrical characteristics of the IC we are using, let’s start with the schematic. Let’s look at what all we will be needing on the board we make.
 
-![](../assets/picture_30.jpg)G:\data1\ArduDIY\Images\7408\_BlockDiagram.jpg
+![](../assets/picture_30.jpg)
+<p align="center">
+  <img src="../assets/picture_30.png" align="center">
+</p>
 
-Power Supply
+Now let’s put this in schematic format \(a little prior working knowledge of eagle is needed. I shall soon be making a tutorial on eagle basics.\)
 
-![](../assets/picture_46.png)Now let’s put this in schematic format \(a little prior working knowledge of eagle is needed. I shall soon be making a tutorial on eagle basics.\)
+![](../assets/picture_46.png)
 
-Input Port
 
-Output Port
-
-All the four gates of the IC along with Pin Numbers.
-
-There are no connectionsas we are not using those pins.
 
 You can see the lines represent just connections and not the actual physical layout. So here we have just defined all the components needed along with the connections for a simple AND gate board. This was just to get you accustomed to the design process.
 
@@ -52,4 +49,3 @@ Now that we have seen the schematic let’s look at the board file. The board fi
 ![](../assets/picture_58.png)
 
 As you can see it is harder to realise the connections between components in the physical layout. That is the reason we need to first define the components and their connection in the schematic file and then proceed to layout.
-
