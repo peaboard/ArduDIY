@@ -1,7 +1,5 @@
 ## The Microcontroller {#the-microcontroller}
 
-<br/>
-
 Microcontrollers are everywhere! From our watches to our phone, in our cars, our homes. Almost each and every electronics appliance available today has the microcontroller at its heart.
 
 So what are these microcontrollers and why are they so popular?
