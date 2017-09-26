@@ -19,7 +19,7 @@ This is a very top level diagram of our system. We have our computer, the conver
 
 This will run the Arduino IDE (Integrated Development Environment) it looks like this
 
-![](../assets/picture_44.png)credits:http://www.hacdc.org/wp-content/uploads/2012/05/the_Arduino_IDE-2.pngComputer:
+![](../assets/picture_44.png)credits:http://www.hacdc.org
 
 We write our code here and use this to compile and upload the code. We can also communicate with the Arduino Board using the serial monitor of the IDE. It uses the USB port of the computer. The console displays status messages and also warnings and errors.
 
