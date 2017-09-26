@@ -124,18 +124,19 @@ The voltage regulator we use is the 7805\. It is a linear voltage regulator. The
 
 <br/>
 
-**Single Strand Wire: -** As the PCB we use is single sided, if two connections cross we need to take one of them over another. We use a wire to do this. A single strand wire is preferable when making such connections.
+**Single Strand Wire: -**
+
+As the PCB we use is single sided, if two connections cross we need to take one of them over another. We use a wire to do this. A single strand wire is preferable when making such connections.
 
 ![](assets/picture_198.png)
 
 
-**Box Header: -** This is the 10 pin box header. It is used to use an external programmer such as the USBasp when burning the bootloader or programming.
+**Box Header: -**
 
-There is an arrow here which denotes pin no. 1.
+This is the 10 pin box header. It is used to use an external programmer such as the USBasp when burning the bootloader or programming.
 
 ![](assets/picture_204.png)
 
-![](assets/picture_201.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1272-1.jpg
 
 **Relimate: -** We shall use the Relimate connector to connect our board to the converter board. The Relimate connecter fits only in one direction so take care when soldering this. Notice the flap of the connector, we shall use that as an identifier while soldering.
 
