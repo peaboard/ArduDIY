@@ -1,6 +1,6 @@
 # Summary
 
-* [ArduDIY_Almost_Final_B&W_9_BnW](README.md)
+<!-- * [ArduDIY_Almost_Final_B&W_9_BnW](README.md) -->
 * [Introduction](introduction.md)
 * [Foreword](foreword.md)
 * [How and Where to Use This Board](how_and_where_to_use_this_board.md)
