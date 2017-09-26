@@ -11,8 +11,7 @@ Along with that you will need 10% luck, 20% skill, 15% concentrated power of wil
 So on a serious note you will be needing the following things. If you are not sure about all this and want to just get an idea, you can borrow most of the needed stuff, colleges also have these. If you are even slightly serious about making stuff and DIY electronics then I strongly suggest you get yourself this equipment.
 
 *   Digital Multimeter
-
-There is a wide variety available ranging from 100 rupee ones to 5000 rupee industrial standard. For most part the 100 rupee one is sufficient. But if you are considering doing more projects like this I would advise you to invest a bit more and get something a bit better around 300 – 500 rupees.
+    There is a wide variety available ranging from 100 rupee ones to 5000 rupee industrial standard. For most part the 100 rupee one is sufficient. But if you are considering doing more projects like this I would advise you to invest a bit more and get something a bit better around 300 – 500 rupees.
 
 This is the one we usually get at a hundred bucks.
 
