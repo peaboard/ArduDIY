@@ -65,13 +65,15 @@ Soldering is an art, every individual has his own soldering style. If you are pr
 *   Visually check the joint to see if the solder has held on to the joint correctly. I have observed that visual inspection is many times the best method of checking.
 
 *   Use a DMM in continuity mode.
-<p align="center">
-  <img src="assets/picture_28.png">
-</p>
+
 
 <!---![](assets/picture_28.png) -->
 
 Now let’s start with the soldering. We go step by step starting from the small components first. Use this image as a reference. All components are labelled along with polarity where ever required.
+
+<p align="center">
+  <img src="assets/picture_28.png">
+</p>
 
 Use that Image as a reference for locating where components are. It is an image of the bare PCB board without any components. You will notice that as you go on soldering components it gets harder to spot where you have to solder new components.
 
