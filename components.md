@@ -47,11 +47,15 @@ Light Emitting Diodes. As they are a type of diodes they also have polarity and 
 
 You can identify the terminals of an LED by looking at the length of the terminals.
 
-![](assets/picture_36.png)G:\data1\ArduDIY\Images\splabcomponents\LED.png
+<p align="center">
+  <img src="assets/picture_36.png" align="center">
+</p>
 
 We shall be using two LEDs, Red for Power and Green as the indicator Led connected to the Arduino Pin.
 
-![](assets/picture_39.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1231-1.jpg
+<p align="center">
+  <img src="assets/picture_39.png" align="center">
+</p>
 
 **Slider Switch: -** This is the switch we shall use to power ON and OFF the board. It is a single Pole single throw switch.
 
