@@ -8,13 +8,8 @@ Arduino programming is done in a simplified version of C++, one just needs to kn
 
 What Arduino does is it greatly simplifies the whole code writing process. This is especially useful for people like us, who are more interested in implementing things rather than dealing with the whole computer part of it. How does it simplify the code? Let me give you an example.Suppose we want to run a motor with variable rpm. For this we need the PWM signal from the microcontroller. Now in traditional approach the code would be:
 
-Arduino
 
-Traditional Code
-
-![](../assets/picture_13.jpg)G:\data1\ArduDIY\Images\Code_trad.jpg
-
-![](../assets/picture_14.jpg)G:\data1\ArduDIY\Images\Code_Arduino.jpg
+![](../assets/picture_14.png)
 
 YES!! All that was reduced to only two lines!And this is just the most basic example, you will realise how great Arduino is once you start using it.
 
