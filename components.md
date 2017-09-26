@@ -72,11 +72,15 @@ This is the button switch we shall be using to reset the microcontroller when it
 ![](assets/picture_65.png)
 
 
-**Crystal: -** The Crystal we use in our oscillator circuit to provide clock to the microcontroller. We use a 16 MHz Cut Crystal. It does not have polarity so you can connect it either way.
+**Crystal: -**
 
-![](assets/picture_113.png)![](assets/picture_114.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1243-1.jpg
+The Crystal we use in our oscillator circuit to provide clock to the microcontroller. We use a 16 MHz Cut Crystal. It does not have polarity so you can connect it either way.
 
-![](assets/picture_115.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204234.jpg**Bergstrip: -** This is the connector we use to interface the pins. It is a male type Bergstrip of 2.54mm pitch. We use it in sets of 4,5,6,1 i.e. 1x4, 1x5, 1x6, 1x1\. You can use a hand cutter to break apart the whole strip into smaller parts.
+![](assets/picture_113.png) ![](assets/picture_114.png)
+
+**Bergstrip: -** This is the connector we use to interface the pins. It is a male type Bergstrip of 2.54mm pitch. We use it in sets of 4,5,6,1 i.e. 1x4, 1x5, 1x6, 1x1\. You can use a hand cutter to break apart the whole strip into smaller parts.
+
+![](assets/picture_115.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204234.jpg
 
 ![](assets/picture_116.png)
 
