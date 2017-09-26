@@ -54,7 +54,9 @@ Now that we have seen the schematic let’s look at the board file. The board fi
 
 <br/>
 
-![](../assets/picture_58.png)
+<p align="center">
+  <img src="../assets/picture_58.png" align="center">
+</p>
 
 <br/>
 
