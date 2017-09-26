@@ -1,4 +1,4 @@
-# How to go about {#how-to-go-about}
+# How To Go About {#how-to-go-about}
 
 ---
 

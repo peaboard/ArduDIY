@@ -1,4 +1,7 @@
 # How and Where to Use This {#how-and-where-to-use-this-board}
+---
+
+<br/>
 
 This board has been designed for rapid prototyping, tinkering and experimenting. The nature of this board is such that after you finish making it and testing it for the first time, it has a very high reliability. It has been specifically made such that you can make any change to it physically as you wish \(for example adding extra pins, headers, specific connections, etc.\).
 
