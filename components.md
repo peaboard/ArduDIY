@@ -57,11 +57,13 @@ We shall be using two LEDs, Red for Power and Green as the indicator Led connect
   <img src="assets/picture_39.png" align="center">
 </p>
 
-**Slider Switch: -** This is the switch we shall use to power ON and OFF the board. It is a single Pole single throw switch.
+**Slider Switch: -**
 
-![](assets/picture_45.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204312.jpg![](assets/picture_48.png)
+This is the switch we shall use to power ON and OFF the board. It is a single Pole single throw switch.
 
-This terminal is connected to the other two based on the position of the pole.
+![](assets/picture_45.png)
+
+
 
 **Reset Switch: -** This is the button switch we shall be using to reset the microcontroller when it is on. Please use a DMM in continuity mode to understand properly before Soldering.
 
