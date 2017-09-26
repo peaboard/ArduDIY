@@ -1,4 +1,7 @@
-## The Microcontroller: {#the-microcontroller}
+## The Microcontroller {#the-microcontroller}
+---
+
+<br/>
 
 Microcontrollers are everywhere! From our watches to our phone, in our cars, our homes. Almost each and every electronics appliance available today has the microcontroller at its heart.
 

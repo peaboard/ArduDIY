@@ -1,4 +1,7 @@
 ## What makes a Microcontroller Arduino! {#what-makes-a-microcontroller-arduino}
+---
+
+<br/>
 
 If you buy an ATmega328 from the market and plug it into your board it won’t work. The board wouldn’t respond at all. That’s because the microcontroller we bought from the market isn’t programmed to behave as an Arduino. Arduino has defined set parameters for communication between the IDE and the microcontroller. The microcontroller should be initially programmed such that it can interface with the Arduino IDE before we actually start using it as an Arduino.
 
