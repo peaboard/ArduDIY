@@ -5,11 +5,13 @@
 
 Let’s have a look at all the components present in here so that it shall be easier to solder the board.
 
+**Resistor:-** 4k7 or 4700Ohms.
+
 ![](assets/picture_101.png)
 
 ![](assets/picture_59.png)
 
-**Resistor:-** 4k7 or 4700Ohms.
+
 
 22pF
 
