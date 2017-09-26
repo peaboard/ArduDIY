@@ -1,5 +1,4 @@
 ## The Microcontroller {#the-microcontroller}
----
 
 <br/>
 
