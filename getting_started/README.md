@@ -34,7 +34,7 @@ So on a serious note you will be needing the following things. If you are not su
 *   Solder Metal and Flux Solder metal for obvious purposes. The flux is optional but it makes soldering a whole lot easier.
 
 <p align="center">
-  <img src="../assets/picture_9.jpg" align="center">
+  <img src="../assets/picture_9.png" align="center">
 </p>
 
 *   Wire Stripper and similar tools. This again is optional depending upon your project.
