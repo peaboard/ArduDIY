@@ -66,7 +66,7 @@ Soldering is an art, every individual has his own soldering style. If you are pr
 
 *   Use a DMM in continuity mode.
 <p align="center">
-  <img src=assets/picture_28.png/>
+  <img src="assets/picture_28.png">
 </p>
 
 <!---![](assets/picture_28.png) -->
