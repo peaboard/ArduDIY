@@ -100,19 +100,25 @@ We shall use a 28 pin IC base to fit the microcontroller into. We do not directl
   <img src="assets/picture_117.png" align="center">
 </p>
 
-**Battery Connector: -** We shall use this to connect our board to a 9V battery. The red wire is positive of the battery and the black negative. We will solder these wires directly onto the board.
+**Battery Connector: -**
+
+We shall use this to connect our board to a 9V battery. The red wire is positive of the battery and the black negative. We will solder these wires directly onto the board.
 
 <p align="center">
   <img src="assets/picture_118.png" align="center">
 </p>
 
-**Microcontroller: -** And finally we have the heart of our board, the all-powerful Atmega328P.
+**Microcontroller: -**
 
-![](assets/picture_119.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1250-1.jpg Please take special care with this IC, it can be damaged due to electrostatic discharge (from our fingers).
+And finally we have the heart of our board, the all-powerful Atmega328P.
+Please take special care with this IC, it can be damaged due to electrostatic discharge (from our fingers).
 
-![](assets/picture_120.png)
+![](assets/picture_119.png)
 
-**Voltage Regulator: -** The voltage regulator we use is the 7805\. It is a linear voltage regulator. The output voltage is 5 Volts. The IC is available in many forms of which we will be using the DIP package. Minimal external circuit is required with this IC (just a few capacitors). It is one of the most widely used series of voltage regulators.
+
+**Voltage Regulator: -**
+
+The voltage regulator we use is the 7805\. It is a linear voltage regulator. The output voltage is 5 Volts. The IC is available in many forms of which we will be using the DIP package. Minimal external circuit is required with this IC (just a few capacitors). It is one of the most widely used series of voltage regulators.
 
 Input
 
