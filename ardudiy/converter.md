@@ -12,4 +12,6 @@ It’s most important use is that we shall be using it as a programmer to upload
 | TXD | Transmit | Serial Data transmit pin. |
 | GND | Ground | Signals are defined with respect to GROUND. Hence for two ICs to communicate they must understand each other’s signals and thus their grounds must be common. |
 
-![](../assets/picture_47.jpg)G:\data1\ArduDIY\Images\UART_Connection.jpgAnd important thing to note is that the RX of out converter is the TX of our Arduino (Atmega328) and the TX of our converter is the RX of the Atmega328\. UART is a serial protocol so the data transmitted by one chip is received by the other on the same line. Hence this configuration.
+And important thing to note is that the RX of out converter is the TX of our Arduino (Atmega328) and the TX of our converter is the RX of the Atmega328\. UART is a serial protocol so the data transmitted by one chip is received by the other on the same line. Hence this configuration.
+
+![](../assets/picture_47.jpg)G:\data1\ArduDIY\Images\UART_Connection.jpg
