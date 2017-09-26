@@ -20,7 +20,6 @@ This is the reset and programming connection circuit diagram.
 **DO NOT SOLDER CAPACITOR C9 and RESISTOR R4.**
 
 ****It has been added to prevent stray noise from resetting the controller in noisy environments. But if this capacitor is added the board cannot be programmed using the converter board.If you need this capacitor (due to problems of noise) you will need to program this board using the external programmer.
+The resistor provides a continuous load to the power supply. But if this is used with a 9V battery it will drain fast.****
 
 ![](assets/picture_223.jpg)
-
-The resistor provides a continuous load to the power supply. But if this is used with a 9V battery it will drain fast.****
