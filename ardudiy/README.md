@@ -24,6 +24,7 @@ This will run the Arduino IDE (Integrated Development Environment) it looks like
 
 <p align="center">
   <img src="../assets/picture_44.png" align="center">
+
   Image Credits: <a href="http://www.hacdc.org">http://www.hacdc.org</a>
 </p>
 
