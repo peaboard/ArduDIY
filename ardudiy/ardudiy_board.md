@@ -1,6 +1,8 @@
 ## ArduDIY Board: {#ardudiy-board}
 
-![](../assets/picture_221.jpg)G:\data1\ArduDIY\Images\Board Diagram.jpgNow let’s look at our Arduino board. On a layout level it can be split into the following parts. We look at it this way as it makes understanding it easier.
+Now let’s look at our Arduino board. On a layout level it can be split into the following parts. We look at it this way as it makes understanding it easier.
+
+![](../assets/picture_221.png)
 
 Now every board has a corresponding schematic. Whenever we make a printed circuit board usually we have to create two files. The schematic (.sch) and the board (.brd) file. The schematic file must be created first.
 
