@@ -22,17 +22,20 @@ So on a serious note you will be needing the following things. If you are not su
 </p>
 
 
-Insert probes here. Check which function is being used and choose hole accordingly.
 
-Always disconnect the probes before changing the mode of the DMM. Suppose you are measuring voltage and suddenly change the mode to Ammeter, your system will get short circuited and damaged!
+  Always disconnect the probes before changing the mode of the DMM. Suppose you are measuring voltage and suddenly change the mode to Ammeter, your system will get short circuited and damaged!
 
-![](../assets/picture_7.png)
+<p align="center">
+  <img src="../assets/picture_7.png" align="center">
+</p>
 
 *   Gun The soldering gun we most easily get in these areas is the yellow coloured Solderon soldering iron (25 Watt). This is completely sufficient for all DIY projects and is even capable of SMD soldering.Most soldering guns come with a flat ringed metal tip. For SMD work you can use the pointed tip. There is a different type of tip available known as a coated tip. It is about 3 times the cost of a normal tip but gives superior performance and lasts a lot longer. If you are going to do a lot of soldering work give it a try.
 
 *   Solder Metal and Flux Solder metal for obvious purposes. The flux is optional but it makes soldering a whole lot easier.
 
-![](../assets/picture_9.jpg)http://3.imimg.com/data3/YQ/RI/MY-10536612/silder-flux-250x250.jpeg![](../assets/picture_8.jpg)http://s3.amazonaws.com/emimg/Products/NN-156/1B.JPG
+<p align="center">
+  <img src="../assets/picture_9.jpg" align="center">
+</p>
 
 *   Wire Stripper and similar tools. This again is optional depending upon your project.
 
