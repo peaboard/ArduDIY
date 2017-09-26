@@ -19,15 +19,14 @@ So the parameters we shall look at now in the datasheet are:
 
 So now that we have studied the electrical characteristics of the IC we are using, let’s start with the schematic. Let’s look at what all we will be needing on the board we make.
 
+![](../assets/picture_30.jpg)
+
+
 Now let’s put this in schematic format \(a little prior working knowledge of eagle is needed. I shall soon be making a tutorial on eagle basics.\)
 
 <p align="center">
   <img src="../assets/picture_30.png" align="center">
 </p>
-
-
-
-![](../assets/picture_46.png)
 
 
 
