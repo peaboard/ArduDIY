@@ -40,7 +40,10 @@ Have a look at this and try to understand whatever you can. Every component is n
 
 Ok so once you have had a good and through look at the above circuit you can go ahead.
 
-Here is the same schematic with blocks based on function. Check how ![](../assets/picture_57.png)G:\data1\ArduDIY\Images\Scematic Explanation.jpgmany of them you guessed correctly.
+Here is the same schematic with blocks based on function. Check how
+
+
+![](../assets/picture_57.png)G:\data1\ArduDIY\Images\Scematic Explanation.jpgmany of them you guessed correctly.
 
 This is the bare minimum of what all is required for the microcontroller to run. Capacitors are used for decoupling \(to remove noise or varying elements\). Resistors are used to pull-up and for current limiting.
 
