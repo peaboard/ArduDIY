@@ -16,11 +16,9 @@ What Arduino does is it greatly simplifies the whole code writing process. This 
 ![](../assets/picture_14.png)
 
 
-
-Just to give you a Perspective, this is the Arduino Header
-
 Now you must be thinking “How is this possible!? Is it really this easy?” Well yes. It is so because hundreds of people have already put in effort. It’s not like the code required has magically shrunk. There is a code behind what we write and that is huge. See what the people at Arduino did is that they created standard libraries and functions for everyone to use. So the extra lines you see in the first code are actually there but they are being used by us through the functions defined by the creators of Arduino.
 
+Just to give you a Perspective, this is the Arduino Header
 If you want to actually read it, just open “arduino.h” located in the program files.
 
 ![](../assets/picture_11.jpg)
