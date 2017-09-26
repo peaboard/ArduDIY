@@ -19,4 +19,4 @@ Now you must be thinking “How is this possible!? Is it really this easy?” We
 
 If you want to actually read it, just open “arduino.h” located in the program files.
 
-![](../assets/picture_11.jpg)G:\data1\ArduDIY\Images\Arduino_h.jpg
+![](../assets/picture_11.jpg)
