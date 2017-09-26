@@ -28,15 +28,15 @@ Soldering is an art, every individual has his own soldering style. If you are pr
 
 *   Flux
 
-What flux basically does is it removes the metal oxide layer which is formed due to high heat. This layer is the blackened stuff you see on your soldering gun and on the board. Oxidation eats away at the metal and comes in the way of a proper solder joint. It can give rise to dry solder. There are many types of flux like liquid flux, flux paste etc..
+    What flux basically does is it removes the metal oxide layer which is formed due to high heat. This layer is the blackened stuff you see on your soldering gun and on the board. Oxidation eats away at the metal and comes in the way of a proper solder joint. It can give rise to dry solder. There are many types of flux like liquid flux, flux paste etc..
 
 *   Solder Wire
 
-Solder wire is easily available is most electronics shops. Observe the thickness before buying, if it seems too thick it may give problems melting properly.
+    Solder wire is easily available is most electronics shops. Observe the thickness before buying, if it seems too thick it may give problems melting properly.
 
 *   Wet Sponge
 
-If you have a soldering gun stand you must have noticed a small yellow thick sponge on the front. This is meant to clean the gun and must be wetted before use. Just rub the tip of your gun over the sponge. Do this with a swiping movement without maintaining contact for too long.
+    If you have a soldering gun stand you must have noticed a small yellow thick sponge on the front. This is meant to clean the gun and must be wetted before use. Just rub the tip of your gun over the sponge. Do this with a swiping movement without maintaining contact for too long.
 
 **How to Solder**
 
