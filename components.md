@@ -28,6 +28,8 @@ Here again we have two different values. But these are easier to spot as the val
 
 The terminal of the capacitor with a band above it is the negative terminal.
 
+<br/>
+
 ![](assets/picture_83.png)
 
 <br/>
