@@ -65,23 +65,12 @@ This is the switch we shall use to power ON and OFF the board. It is a single Po
 
 
 
-**Reset Switch: -** This is the button switch we shall be using to reset the microcontroller when it is on. Please use a DMM in continuity mode to understand properly before Soldering.
+**Reset Switch: -**
+
+This is the button switch we shall be using to reset the microcontroller when it is on. Please use a DMM in continuity mode to understand properly before Soldering.
 
 ![](assets/picture_65.png)
 
-G:\data1\ArduDIY\Images\splabcomponents\DSC_1228-1.jpg
-
-These are two sets of switches
-
-This is one individual set of switch.
-
-Front View
-
-![](assets/picture_112.png)
-
-![](assets/picture_70.png)G:\data1\ArduDIY\Images\splabcomponents\DSC_1249-1.jpg
-
-Side View
 
 **Crystal: -** The Crystal we use in our oscillator circuit to provide clock to the microcontroller. We use a 16 MHz Cut Crystal. It does not have polarity so you can connect it either way.
 
