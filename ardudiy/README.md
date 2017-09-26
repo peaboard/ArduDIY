@@ -6,23 +6,12 @@ This board is not pin compatible with the Arduino Boards. Due to this you will n
 
 The reason this board was not made pin compatible with the Arduino is so that users could develop a better understanding of how the board actually works and is routed. This will help when you make your own Arduino board.
 
-![](../assets/picture_35.jpg)
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2V1LZuNFuHxSC7LaeDLhNOhMP1v7_Lw5WyRP8GibUlPEx2iDT
-
-9 V BatteryPower Supply
-
 Let’s look at our system block by block.
 
-This Board acts as the interface between PC and Arduino Board
 
-Our Arduino IDE runs here
+![](../assets/picture_35.png)
 
-Computer
 
-This is our Arduino Board.
-
-![](../assets/picture_24.jpg)G:\data1\ArduDIY\Images\Basic System.jpg
 
 This is a very top level diagram of our system. We have our computer, the converter, our Arduino Board and a power supply.
 
