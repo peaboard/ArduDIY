@@ -115,7 +115,7 @@ Now we solder the Reset Switch. Look at the diagram on the board properly and th
 
 **Later keep in mind to check this with the DMM as, if this is not soldered in proper orientation, the board will continuously be in reset state and won’t work.**
 
-![](assets/picture_133.jpg)
+![](assets/picture_133.png)
 
 | IC Base | 28 Pin | 1 |
 | --- | --- | --- |
