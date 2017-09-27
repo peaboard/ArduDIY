@@ -178,14 +178,11 @@ Almost there, while soldering the box header first identify pin number 1 on both
 
 The crystal is the last component we solder. This is because the quartz crystal is quite sensitive. Do not hold you soldering gun to its points for too long while soldering. But do place it properly (pressing it onto the surface so that that there is no space between the crystal and the PCB) and solder it thoroughly.
 
-Now that we are done soldering, take a break and look upon what you have made 
+Now that we are done soldering, take a break and look upon what you have made :)
 
 Here are some reference images.The DC jack is not included in this kit, you can solder it if you plan on powering this board using an adapter. The adapter can be 8V to 20V.Preferablly 12V.
 
 ![](assets/picture_29.png)
-<p align="center">
-  <img src="assets/picture_29.png" align="center">
-</p>
 
 ![](assets/picture_240.png)
 
