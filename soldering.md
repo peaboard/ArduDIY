@@ -183,6 +183,9 @@ Now that we are done soldering, take a break and look upon what you have made ï
 Here are some reference images.The DC jack is not included in this kit, you can solder it if you plan on powering this board using an adapter. The adapter can be 8V to 20V.Preferablly 12V.
 
 ![](assets/picture_29.png)
+<p align="center">
+  <img src="assets/picture_29.png" align="center">
+</p>
 
 ![](assets/picture_240.png)
 
