@@ -24,7 +24,7 @@
   * [Turn the board on:](testing/turn_the_board_on.md)
   * [Plugging in the Atmega328:](testing/plugging_in_the_atmega328.md) -->
 * [Software & Programming](software_&_programming/README.md)
-  * [Let’s start Programming!!!](software_&_programming/lets_start_programming.md)
+  <!-- * [Let’s start Programming!!!](software_&_programming/lets_start_programming.md) -->
 * [Arduino Basics ](arduino_basics.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Rule No. 1:](troubleshooting/rule_no_1.md)
