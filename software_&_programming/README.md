@@ -43,9 +43,9 @@ Once you have connected the Relimate, the whole arrangement should look like thi
 
 Just a little tip: when you want to remove the Relimate wire from the Arduino board, do not just pull it out. Doing that will reduce the life of your Relimate. The proper method to remove the Relimate is using your finger pull the Relimate in the direction of the flap while pulling it upwards. It should easily come off this way.
 
+
+
 ## Let’s start Programming!!! {#let-s-start-programming}
-
-
 
 You must know about “Hello World” it is the first program we try out whenever learning a new language. “Blink” is the Arduino equivalent of Hello World. What this code does is it starts blinking the connected led of the Arduino Board. Let us burn this Code onto our ArduDIY.
 
