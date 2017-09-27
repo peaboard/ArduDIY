@@ -19,10 +19,10 @@
 * [Circuit Working](circuit_working.md)
 * [Soldering](soldering.md)
 * [Testing ](testing/README.md)
-  * [Visual Checking:](testing/visual_checking.md)
+  <!-- * [Visual Checking:](testing/visual_checking.md)
   * [Testing Using the DMM:](testing/testing_using_the_dmm.md)
   * [Turn the board on:](testing/turn_the_board_on.md)
-  * [Plugging in the Atmega328:](testing/plugging_in_the_atmega328.md)
+  * [Plugging in the Atmega328:](testing/plugging_in_the_atmega328.md) -->
 * [Software & Programming](software_&_programming/README.md)
   * [Let’s start Programming!!!](software_&_programming/lets_start_programming.md)
 * [Arduino Basics ](arduino_basics.md)
