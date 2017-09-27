@@ -111,9 +111,11 @@ Go in this order for soldering the components, it will be easier this way. Tally
 
 You can swap the led to a colour of your choice, Blue and white is a great combination.
 
-Now we solder the Reset Switch. Look at the diagram on the board properly and then connect accordingly. Remember there are two sets of switches in our reset switch. Solder it like this. **Later keep in mind to check this with the DMM as, if this is not soldered in proper orientation, the board will continuously be in reset state and won’t work.**
+Now we solder the Reset Switch. Look at the diagram on the board properly and then connect accordingly. Remember there are two sets of switches in our reset switch. Solder it like this.
 
-![](assets/picture_133.jpg)G:\data1\ArduDIY\Images\splabcomponents\DSC_1255-1.jpg![](assets/picture_132.png)G:\data1\ArduDIY\Images\ArduDIY_Board.png
+**Later keep in mind to check this with the DMM as, if this is not soldered in proper orientation, the board will continuously be in reset state and won’t work.**
+
+![](assets/picture_133.jpg)
 
 | IC Base | 28 Pin | 1 |
 | --- | --- | --- |
