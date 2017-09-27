@@ -28,10 +28,6 @@ Lastly go to Tools -&gt; Port -&gt; Now select the COM port of our converter boa
 
 ![](../assets/picture_173.png)
 
-Whichever COM port has been assigned.
-
-Whichever COM port has been assigned.
-
 Now Connect the Convert Board to our Arduino Board. We use the given Relimate Wire to do this. On our Arduino Board this wire goes inside only on way. On the Converter Board there are bergstrips, so the Relimate can be inserted both ways. Hence care must be taken. Look at the way we plug in the Relimate.
 
 Basically the flap on the Relimate should be downwards.
