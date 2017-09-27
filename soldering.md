@@ -120,7 +120,9 @@ Now we solder the Reset Switch. Look at the diagram on the board properly and th
 | IC Base | 28 Pin | 1 |
 | --- | --- | --- |
 
-![](assets/picture_135.png)G:\data1\ArduDIY\Images\splabcomponents\IMG_20151212_204042.jpg
+<p align="center">
+  <img src="assets/picture_135.png" align="center">
+</p>
 
 For the IC base, place it on the board and support it from the other side with your fingers (careful so that you do not burn yourself). Now solder two pins diagonally. After that you can solder the rest of the IC base with ease.
 
