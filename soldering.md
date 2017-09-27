@@ -144,18 +144,15 @@ Ok almost there, we now solder the slider switch and the voltage regulator. For 
 
 The battery connector wires need to be soldered onto the board. There is also a provision for soldering a DC Jack on the board, you can proceed with what you are comfortable with. Just put the wire through the slot and solder it on the bottom. Look at the image below to get the positions for the red and black wires. You can also solder a DC jack here in case you are using an adapter.As you can see the original component on the board is a DC Jack.
 
-Red Wire
 
-Black Wire
-
-![](assets/picture_139.png)G:\data1\ArduDIY\Images\ArduDIY_Board.png
+![](assets/picture_139.png)
 
 | Single Strand Wire | - | 1 |
 | --- | --- | --- |
 
 While soldering the wire, first cut the wire to proper length. An easy way to do this is to directly take a measurement by placing the wire on the board. Now strip the ends of the wire to expose the strand underneath. Once that is done place the wire in the two holes provided. Solder one end first, check, then solder the other point. As far as possible try to keep the wire as close/ flat to the PCB as possible. This is not only a good soldering practise but will also make the board neater and prevent the wire form coming in between other components.
 
-![](assets/picture_224.jpg)G:\data1\ArduDIY\Images\attachments_new\DSC_1560.JPG![](assets/picture_126.png)G:\data1\ArduDIY\Images\ArduDIY_Board.png
+![](assets/picture_224.png)
 
 | PCB Mount Relimate | 6 pin | 1 |
 | --- | --- | --- |
@@ -165,16 +162,16 @@ When soldering the Relimate we must take care that it is soldered in the proper 
 
 This is the flap.It is facing the outer edge of the board.
 
-![](assets/picture_130.png)G:\data1\ArduDIY\Images\ArduDIY_Board.png![](assets/picture_229.jpg)G:\data1\ArduDIY\Images\attachments_new\DSC_1560.JPG
+![](assets/picture_130.png)
 
 | Box Header | 10 Pin | 1 |
 | --- | --- | --- |
 
-![](assets/picture_233.jpg)G:\data1\ArduDIY\Images\attachments_new\DSC_1560.JPGAlmost there, while soldering the box header first identify pin number 1 on both the header an on the PCB. To identify pin number 1 read the section above where all components are introduced (It is shown by a small arrow on the header as well as the board).
 
-Pin number 1.
 
-![](assets/picture_191.png)G:\data1\ArduDIY\Images\ArduDIY_Board.png
+Almost there, while soldering the box header first identify pin number 1 on both the header an on the PCB. To identify pin number 1 read the section above where all components are introduced (It is shown by a small arrow on the header as well as the board).
+
+![](assets/picture_233.png)
 
 | Crystal | 16MHz | 1 |
 | --- | --- | --- |
@@ -185,8 +182,8 @@ Now that we are done soldering, take a break and look upon what you have made ÔÅ
 
 Here are some reference images.The DC jack is not included in this kit, you can solder it if you plan on powering this board using an adapter. The adapter can be 8V to 20V.Preferablly 12V.
 
-![](assets/picture_29.png)G:\data1\ArduDIY\Images\attachments_new\DSC_1560.JPG
+![](assets/picture_29.png)
 
-![](assets/picture_240.png)G:\data1\ArduDIY\Images\attachments_3\DSC_1603.JPG
+![](assets/picture_240.png)
 
-![](assets/picture_241.png)G:\data1\ArduDIY\Images\attachments_3\DSC_1602.JPG
+![](assets/picture_241.png)
