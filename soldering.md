@@ -1,4 +1,7 @@
 # Soldering {#soldering}
+---
+
+<br/>
 
 Soldering is one of the most important tools at the disposal of a DIY enthusiast. It helps in rapid prototyping, repairing and building stuff from scratch.
 
