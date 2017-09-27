@@ -73,7 +73,7 @@ Now let’s start with the soldering. We go step by step starting from the small
 
 <p align="center">
   <img src="assets/picture_28.png">
-</p>
+</p>  
 
 Use that Image as a reference for locating where components are. It is an image of the bare PCB board without any components. You will notice that as you go on soldering components it gets harder to spot where you have to solder new components.
 
@@ -101,41 +101,11 @@ Go in this order for soldering the components, it will be easier this way. Tally
 
 **Similarly for the LEDs and diodes, first identify the anode and cathode.**
 
-AnodePositive Terminal
+**The diodes have a clear marking to show the polarity (the side with the band is cathode or negative terminal).**The Led on the other hand has no such marking. Use this for reference.**
 
-Longer Lead
 
-**The diodes have a clear marking to show the polarity (the side with the band is cathode or negative terminal).**The Led on the other hand has no such marking. Use this for reference.
 
-AnodePositive Terminal
-
-Longer Lead
-
-AnodePositive Terminal
-
-Longer Lead
-
-CathodeNegative Terminal
-
-Shorter Lead
-
-![](assets/picture_121.png)G:\data1\ArduDIY\Images\ArduDIY_Board.png
-
-Power LEDRed
-
-Power LEDRed
-
-CathodeNegative Terminal
-
-Shorter Lead
-
-CathodeNegative Terminal
-
-Shorter Lead
-
-Output LEDGreen
-
-Output LEDGreen
+![](assets/picture_121.png)
 
 **Note that both LEDs have a different orientation.**
 
