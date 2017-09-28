@@ -8,4 +8,6 @@ We use a dedicated external programmer the USBasp for burning the bootloader. A 
 
 You will need to buy an USBasp separately. Don’t worry its widely available.
 
-![](assets/picture_237.jpg)G:\data1\ArduDIY\Images\attachments_new\DSC_1563-1.jpg
+<p align="center">
+  <img src="assets/picture_237.jpg" align="center">
+</p>
