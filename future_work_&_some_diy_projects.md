@@ -26,7 +26,7 @@ These are just some random ideas that came to my mind. There are literally thous
 
 
 <p align="center">
-  **_Explore Make Create_**
+  <strong><i>Explore Make Create</i></strong>
 </p>
 
 
