@@ -1,5 +1,9 @@
 # Future Work &amp; Some DIY Projects {#future-work-some-diy-projects}
 
+---
+
+<br/>
+
 A few projects to start with which you may find interesting…
 
 **LED Cube**
@@ -9,8 +13,6 @@ This is one of the most interesting projects you can take up. You will learn a l
 **Arduino with Keypad Input, Display**
 
 Being able to reliably use a keypad goes a long way in all DIY projects
-
-****
 
 **Battery Tester**
 
@@ -22,7 +24,7 @@ You can use existing sensors by interfacing them with your Arduino or even build
 
 These are just some random ideas that came to my mind. There are literally thousands of interesting projects out these with the Arduino.
 
-_Explore Make Create___
+**_Explore Make Create___**
 
 Disclaimer
 
