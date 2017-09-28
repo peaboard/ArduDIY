@@ -22,9 +22,13 @@ Use the built in ADC capability of the Arduino to test any battery below 5V.
 
 You can use existing sensors by interfacing them with your Arduino or even build your own sensors. This will be a good practise of electronic circuit skills.
 
-These are just some random ideas that came to my mind. There are literally thousands of interesting projects out these with the Arduino.
+These are just some random ideas that came to my mind. There are literally thousands of interesting projects out there with Arduino.
 
-**_Explore Make Create___**
+
+<p align="center">
+  **_Explore Make Create_**
+</p>
+
 
 Disclaimer
 
