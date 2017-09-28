@@ -27,13 +27,13 @@
   <!-- * [Let’s start Programming!!!](software_&_programming/lets_start_programming.md) -->
 * [Arduino Basics ](arduino_basics.md)
 * [Troubleshooting](troubleshooting/README.md)
-  * [Rule No. 1:](troubleshooting/rule_no_1.md)
+  <!-- * [Rule No. 1:](troubleshooting/rule_no_1.md)
   * [VCC-GND show a short circuit:](troubleshooting/vcc-gnd_show_a_short_circuit.md)
   * [Power LED (red) does not glow when you switch on the board:](troubleshooting/power_led_red_does_not_glow_when_you_switch_on_the.md)
   * [CP2102 Driver Problems:](troubleshooting/cp2102_driver_problems.md)
   * [ATmega328 not getting programmed:](troubleshooting/atmega328_not_getting_programmed.md)
   * [Peripheral of ATmega328 not working:](troubleshooting/peripheral_of_atmega328_not_working.md)
-  * [Code compilation Errors:](troubleshooting/code_compilation_errors.md)
+  * [Code compilation Errors:](troubleshooting/code_compilation_errors.md) -->
 * [The Arduino Bootloader](the_arduino_bootloader.md)
 * [Making Your Own Arduino](making_your_own_arduino.md)
 * [A few initial notes: ](a_few_initial_notes.md)

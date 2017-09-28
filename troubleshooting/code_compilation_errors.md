@@ -1,5 +1,0 @@
-## Code compilation Errors: {#code-compilation-errors}
-
-*   Go through the code to find any syntax or logical errors. The Arduino console is not very great at identifying errors in the code and will usually return something in a complicated language. A great help is the line number where the error occurs is usually shown by the console. Many errors we make are silly mistakes while typing.
-
-*   A good way to identify the problem is to google it and look at forums. There has to be someone in the world who has had a problem similar to yours. You may not find the exact same problem as yours, but there should be something similar.Look at all the available solutions and see if you can adapt them to your problem in any way.If you find nothing, post your problem on the forum. There are a lot of people willing to help.
