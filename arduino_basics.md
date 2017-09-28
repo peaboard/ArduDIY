@@ -4,7 +4,7 @@ Arduino has been designed such that it is very easy to learn for new users. Befo
 
 The main important concepts you must cover are: syntax, data types, functions (in detail), condition statements (if-else, while, do while etc.), structures, classes (for advanced users and library manipulation). Most of the Arduino code is created using structures and classes. Hence we need proper knowledge of these and also how to access them (for example the dot operator used to access functions of objects of a particular class).Once you know C/C++ you will understand part of the code immediately when you read it. A big help is that Arduino functions are very well named. Just take care which letters are capital and which small. Let us look at the code you just ran.
 
-![](../assets/picture_242.png)
+![](/assets/picture_242.png)
 
 When you read this example code you will see how well it is commented. Arduino code examples are the best way to learn Arduino.
 
