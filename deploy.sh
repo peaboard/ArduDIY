@@ -4,10 +4,10 @@
 # Script will deploy gitbook as static webpage on github
 # --
 
-echo -e "\033[0;31mThis script will deploy your gitbook as a static webpage on GitHub. / Please note that the build folder _book needs to exist and be untracked by git.\033[0m"
+echo -e "\033[0;31mThis script will deploy your gitbook as a static webpage on GitHub. /nPlease note that the build folder _book needs to exist and be untracked by git.\033[0m"
 echo -e "\033[0;34mOriginal script by by Sansoo Nam\033[0m"
 
-sleep 3
+sleep 2
 
 # install the plugins and build the static site
 gitbook install && gitbook build
