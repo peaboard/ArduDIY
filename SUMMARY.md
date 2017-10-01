@@ -1,7 +1,7 @@
 # Summary
 
 <!-- * [ArduDIY_Almost_Final_B&W_9_BnW](README.md) -->
-* [Introduction](introduction.md)
+<!-- * [Introduction](introduction.md) -->
 <!-- * [Foreword](foreword.md) -->
 * [How and Where to Use This Board](how_and_where_to_use_this_board.md)
 * [Getting Started](getting_started/README.md)
@@ -36,10 +36,10 @@
   * [Code compilation Errors:](troubleshooting/code_compilation_errors.md) -->
 * [The Arduino Bootloader](the_arduino_bootloader.md)
 * [Making Your Own Arduino](making_your_own_arduino.md)
-* [A few initial notes: ](a_few_initial_notes.md)
-* [Step 1:](step_1.md)
-* [Step 2:](step_2.md)
-* [Step 3:](step_3.md)
-* [Step 4:](step_4.md)
-* [Step 5:](step_5.md)
+<!-- * [A few initial notes: ](a_few_initial_notes.md) -->
+<!-- * [Step 1:](step_1.md)
+  * [Step 2:](step_2.md)
+  * [Step 3:](step_3.md)
+  * [Step 4:](step_4.md)
+  * [Step 5:](step_5.md) -->
 * [Future Work & Some DIY Projects](future_work_&_some_diy_projects.md)
