@@ -19,7 +19,7 @@ So on a serious note you will be needing the following things. If you are not su
     Function Knob. You have options like DC Voltmeter, AC Voltmeter and Ammeter
 
 <p align="center">
-  <img src="../assets/picture_1.png" align="center">
+  <img src="../assets/picture_1.png" width="700" align="center">
 </p>
 
 
@@ -35,7 +35,7 @@ So on a serious note you will be needing the following things. If you are not su
 *   Solder Metal and Flux Solder metal for obvious purposes. The flux is optional but it makes soldering a whole lot easier.
 
 <p align="center">
-  <img src="../assets/picture_9.png" align="center">
+  <img src="../assets/picture_9.png" width="500" align="center">
 </p>
 
 *   Wire Stripper and similar tools. This again is optional depending upon your project.

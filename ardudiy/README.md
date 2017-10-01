@@ -11,9 +11,10 @@ The reason this board was not made pin compatible with the Arduino is so that us
 
 Let’s look at our system block by block.
 
+<p align="center">
+  <img src="../assets/picture_35.png" width="500" align="center">
+</p>
 
-![](../assets/picture_35.png)
-
-
+<br/>
 
 This is a very top level diagram of our system. We have our computer, the converter, our Arduino Board and a power supply.

@@ -1,5 +1,4 @@
 # Arduino {#arduino}
-
 ---
 
 <br/>
@@ -12,8 +11,9 @@ Arduino programming is done in a simplified version of C++, one just needs to kn
 
 What Arduino does is it greatly simplifies the whole code writing process. This is especially useful for people like us, who are more interested in implementing things rather than dealing with the whole computer part of it. How does it simplify the code? Let me give you an example.Suppose we want to run a motor with variable rpm. For this we need the PWM signal from the microcontroller. Now in traditional approach the code would be:
 
-
-![](../assets/picture_14.png)
+<p align="center">
+  <img src="../assets/picture_14.png" width="500" align="center">
+</p>
 
 
 Now you must be thinking “How is this possible!? Is it really this easy?” Well yes. It is so because hundreds of people have already put in effort. It’s not like the code required has magically shrunk. There is a code behind what we write and that is huge. See what the people at Arduino did is that they created standard libraries and functions for everyone to use. So the extra lines you see in the first code are actually there but they are being used by us through the functions defined by the creators of Arduino.
@@ -21,4 +21,6 @@ Now you must be thinking “How is this possible!? Is it really this easy?” We
 Just to give you a Perspective, this is the Arduino Header
 If you want to actually read it, just open “arduino.h” located in the program files.
 
-![](../assets/picture_11.jpg)
+<p align="center">
+  <img src="../assets/picture_11.jpg" align="center">
+</p>

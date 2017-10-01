@@ -47,4 +47,10 @@ Sometimes we also need to check the bottom soldered part of the board, so it’s
 
 Take any cardboard of good thickness (covers of our old hardbound notebooks works well) mark the boundaries of the PCB, and cut away. Stick only one side with scotch tape.
 
-![](../assets/picture_239.jpg)![](../assets/picture_238.jpg)
+<p align="center">
+  <img src="../assets/picture_239.jpg" width="500" align="center">
+</p>
+
+<p align="center">
+  <img src="../assets/picture_238.jpg" width="500" align="center">
+</p>

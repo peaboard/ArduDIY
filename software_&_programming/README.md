@@ -4,7 +4,11 @@ Before we begin you shall need to install two things. Firstly the Arduino IDE an
 
 You can get the latest Arduino Software at [www.arduino.cc](http://www.arduino.cc) On their homepage select the download tab. At the time of writing this Arduino 1.6.6 was the latest version, though all higher versions will also work. Preferably use the Arduino Installer and not the ZIP file. It makes things easier. Once you have downloaded, install Arduino.
 
+<br/>
+
 ![](../assets/picture_156.png)
+
+<br/>
 
 Now we install the drivers for our software board. The converter IC on the board is CP2102\. It is manufactured by Silicon Labs, we can obtain the drivers from their website. Just Google “CP2102 driver” It should probably be the first link. This is the full link. [https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)The download page looks like this. Download the Drivers and install them.
 
@@ -39,7 +43,11 @@ Basically the flap on the Relimate should be downwards.
 
 Once you have connected the Relimate, the whole arrangement should look like this:
 
-![](../assets/picture_234.jpg)
+<br/>
+
+<p align="center">
+  <img src="../assets/picture_234.jpg" width="500" align="center">
+</p>
 
 Just a little tip: when you want to remove the Relimate wire from the Arduino board, do not just pull it out. Doing that will reduce the life of your Relimate. The proper method to remove the Relimate is using your finger pull the Relimate in the direction of the flap while pulling it upwards. It should easily come off this way.
 

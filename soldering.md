@@ -75,18 +75,22 @@ Soldering is an art, every individual has his own soldering style. If you are pr
 Now let’s start with the soldering. We go step by step starting from the small components first. Use this image as a reference. All components are labelled along with polarity where ever required.
 
 <p align="center">
-  <img src="assets/picture_28.png">
+  <img src="assets/picture_28.png" width="500">
 </p>  
 
 Use that Image as a reference for locating where components are. It is an image of the bare PCB board without any components. You will notice that as you go on soldering components it gets harder to spot where you have to solder new components.
 
 Go in this order for soldering the components, it will be easier this way. Tally the components with the quantity given. That way you will not miss out on any components.
 
+<br/>
+
 | Component Name | Value | Quantity |
 | --- | --- | --- |
 | Resistor | 4k7 | 3 |
 | Ceramic Capacitor | 0.1uF | 6 |
 |  | 22pF | 2 |
+
+<br/>
 
 **DO NOT SOLDER CAPACITOR C9 and RESISTOR R4\.**
 
@@ -186,6 +190,7 @@ Now that we are done soldering, take a break and look upon what you have made :)
 Here are some reference images.The DC jack is not included in this kit, you can solder it if you plan on powering this board using an adapter. The adapter can be 8V to 20V.Preferablly 12V.
 
 <!-- Why are these images not appearing Check in Build Version -->
+<!-- Appearing Okay in Build Version -->
 
 ![](assets/picture_29.png)
 

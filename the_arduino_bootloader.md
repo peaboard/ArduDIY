@@ -8,6 +8,8 @@ We use a dedicated external programmer the USBasp for burning the bootloader. A 
 
 You will need to buy an USBasp separately. Don’t worry its widely available.
 
+<br/>
+
 <p align="center">
-  <img src="assets/picture_237.jpg" align="center">
+  <img src="assets/picture_237.jpg" width="500" align="center">
 </p>

@@ -9,8 +9,10 @@ Arduino has been designed such that it is very easy to learn for new users. Befo
 The main important concepts you must cover are: syntax, data types, functions (in detail), condition statements (if-else, while, do while etc.), structures, classes (for advanced users and library manipulation). Most of the Arduino code is created using structures and classes. Hence we need proper knowledge of these and also how to access them (for example the dot operator used to access functions of objects of a particular class).Once you know C/C++ you will understand part of the code immediately when you read it. A big help is that Arduino functions are very well named. Just take care which letters are capital and which small. Let us look at the code you just ran.
 
 <p align="center">
-  <img src="/assets/picture_242.png" align="center">
+  <img src="/assets/picture_242.png" width="700" align="center">
 </p>
+
+<br/>
 
 When you read this example code you will see how well it is commented. Arduino code examples are the best way to learn Arduino.
 
@@ -20,9 +22,13 @@ The coding convention followed by Arduino is a bit different. It is used through
 
 Another thing you will notice when you start reading Arduino code is the efficient use of macros and identifiers. So suppose you are using a red coloured hitswitch in your project, now this hitswitch is connected on pin 7 on the Arduino. So when we write the code whenever we want to access anything related to this hitswitch we use it like digitalRead(7);or pinMode(7);Obviously we will use these functions multiple times at different places in our code. Later we want to use pin number 7 as a Led indicator. Now what? We will have to sit and change every instance of 7 to something else. That is a pain. So what we do in in the beginning define the pin number eg;int red_hitswitch = 7;Now wherever we want to access this pin we just replace it with red_hitswitch.digitalRead(red_hitswitch);or pinMode(red_hitswitch);This makes reading and writing the code easier and now even if we want to change the pin assignment in the future we just chance the definition and nothing else.
 
+<br/>
+
 <p align="center">
   <img src="assets/picture_215.jpg" align="center">
 </p>
+
+<br/>
 
 Let’s go over the basics of what you will require to get started. Now for a microcontroller as we saw earlier, ever pin has multiple functions. Some of the important ones are Digital Pin (Input or Output), Analog to Digital Conversion, PWM. Arduino has specific functions defined for all of these. Let’s look at them.
 

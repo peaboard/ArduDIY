@@ -8,8 +8,7 @@ So, the right approach is to read this and side by side and practically perform.
 
 <!-- Does not show up in preview but works after building -->
 <p align="center">
-  <img src="assets/picture_12.jpg" width="335" height="52" align="center">
-  
+  <img src="assets/picture_12.jpg" width="650" align="center">
 </p>
 
 <br/>

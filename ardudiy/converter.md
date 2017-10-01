@@ -14,4 +14,6 @@ It’s most important use is that we shall be using it as a programmer to upload
 
 And important thing to note is that the RX of out converter is the TX of our Arduino (Atmega328) and the TX of our converter is the RX of the Atmega328\. UART is a serial protocol so the data transmitted by one chip is received by the other on the same line. Hence this configuration.
 
-![](../assets/picture_47.jpg)
+<p align="center">
+  <img src="../assets/picture_47.jpg" width="500" align="center">
+</p>

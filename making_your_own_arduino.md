@@ -61,7 +61,11 @@ Installing drivers for Windows8 and above is slightly complicated. The complete 
 
 Once you install your drivers, just connect your USBasp to the Arduino and your PC, then use option burn bootloader.
 
+<br/>
+
 ![](assets/picture_190.png)
+
+<br/>
 
 Before burning the bootloader select the board on which you are going to use the ATmega. You can also make ATmega328’s meant for the Arduino Uno by selecting Arduino Uno under Boards before burning bootloader. For IC’s meant for the ArduDIY, just select the same options you use for programming i.e. Arduino Duemilanove and processor ATmega328
 
